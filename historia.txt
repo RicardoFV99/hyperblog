@@ -3,5 +3,3 @@ Hoy hablaremos de la historia de Ricardo Flores.
 Ricardo nacio en México y estudia ingenieria de software.
 
 Hoy hablaremos de su historia y mañana nos enfocaremos en su vida personal.
-
-Esta es una linea para probar el git reset HEAD.
